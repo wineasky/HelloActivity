@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloView</string>
+    <string name="buttom">第二行</string>
+</resources>
