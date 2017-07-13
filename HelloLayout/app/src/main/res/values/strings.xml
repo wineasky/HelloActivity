@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello Layout</string>
+    <string name="button_a_name">click to B</string>
+    <string name="button_listener"></string>
+
+    <string name="text_a_first">the first TextView in A</string>
+    <string name="text_a_second">the second TextView in A</string>
+    <string name="text_a_last">the last TextView in A</string>
+
+    <string name="text_b_first">the first TextView in B</string>
+    <string name="text_b_second">the second TextView in B</string>
+    <string name="text_b_last">the last TextView in B</string>
+    <string name="red">#FF0000</string>
+    <string name="green">#00FF00</string>
+
+</resources>

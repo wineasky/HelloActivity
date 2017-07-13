@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/LinearLayoutTheme"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_b"
+    >
+
+    <TextView style="@style/TextViewB"
+              android:text="@string/text_b_first"/>
+    <TextView style="@style/TextViewB"
+              android:text="@string/text_b_second"/>
+    <TextView style="@style/TextViewB"
+              android:text="@string/text_b_last"/>
+
+</LinearLayout>
