@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hello Image</string>
+    <string name="button_message">消息通知</string>
+    <string name="text_clock">TextClock</string>
+    <string name="img_a">image a</string>
+    <string name="img_b">image b</string>
+    <string name="img_c">image c</string>
+    <string name="img_d">image d</string>
+    <string name="img_e">image e</string>
+    <string name="img_f">image f</string>
+    <string name="img_g">image g</string>
+
+    <string name="message_view"> 您有1张100元抵扣券(满1000使用)将…</string>
+    <string name="message_title"> 充值/提现到账</string>
+    <string name="message_num">120</string>
+
+</resources>
